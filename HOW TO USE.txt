@@ -1,0 +1,9 @@
+1. composer install
+2. php artisan key:generate
+3. npm install
+4. npm run dev
+5. npm run build
+
+Account Free Use 
+1. akunpertamacursor@gmail.com (123akun1)
+2. akunkeduacursor@gmail.com (123akun2)
